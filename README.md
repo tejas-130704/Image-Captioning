@@ -10,6 +10,8 @@ This project implements an Image Captioning model using **ResNet50** for feature
 ![Screenshot 2025-02-23 210004](https://github.com/user-attachments/assets/f2e710ed-3025-47a2-a698-e78cc2781e9f)
 
 
+![image](https://github.com/user-attachments/assets/8783bb3d-4bc0-4b48-ae3e-3b4af128e413)
+
 ## Features
 - Uses **ResNet50** as the feature extractor
 - LSTM-based caption generation
