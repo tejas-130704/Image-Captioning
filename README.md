@@ -4,7 +4,7 @@ This project implements an Image Captioning model using **ResNet50** for feature
 
 ## Preview
 
-![Screenshot 2025-02-23 205940](https://github.com/user-attachments/assets/34780849-d24f-4fc9-8274-c1321633ef82)
+![Screenshot 2025-02-23 210222](https://github.com/user-attachments/assets/5b809ef5-02c4-4d7a-a765-2b6c8dc7ccea)
 
 
 ![Screenshot 2025-02-23 210004](https://github.com/user-attachments/assets/f2e710ed-3025-47a2-a698-e78cc2781e9f)
